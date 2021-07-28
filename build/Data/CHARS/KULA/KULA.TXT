@@ -12,7 +12,7 @@ icon	data/chars/kula/icon.gif
 
 
 # To create an alternate colour version, enter the path to
-# an image in the original, and one in the alternative colourset.
+# an image in the original, and one in the alternhttps://members.digitalbrilliancehour.com/posts/game-development-beginners-course-quiz-12372066#ative colourset.
 remap	data/chars/kula/walk009.gif data/chars/kula/alter.gif
 
 
